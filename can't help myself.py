@@ -310,7 +310,7 @@ def render_frame(frame):
 
    sys.stdout.write("\033[H")
    sys.stdout.write("\n".join(colored_lines))
-   sys.stdout.write("\n\nCan't Help Myself\nAn ASCII Art Rendition\nby dk865")
+   sys.stdout.write("\n\nCan't Help Myself\nAn ASCII Art Rendition\nby dk865\n\na story about a robot\nwho never stops cleaning\nhis leaking hydraulic fluid")
    sys.stdout.write("\n")
    sys.stdout.flush()
 
